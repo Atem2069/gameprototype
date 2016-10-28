@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/Sounds/battle032.wav</SourceFile>
+  <SourceTime>2016-10-27T14:00:24.7046596+01:00</SourceTime>
+  <DestFile>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/bin/Windows/Sounds/battle032.xnb</DestFile>
+  <DestTime>2016-10-28T17:48:41.875931+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T07:36:08+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T07:36:08+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/rocket.png</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/backgroundcityfull.png</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/bullet.png</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/newenemy.png</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/Sounds/battle032.wav</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/Sounds/battle003.wav</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/Sounds/alert.wav</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/Sounds/battle001.wav</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/spritefont.png</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/GameFont.spritefont</File>
+    <File>C:/Users/Henry/OneDrive/Documents/Mono Rewrite/Mono Rewrite/Content/space.png</File>
+  </SourceFiles>
+</SourceFileCollection>

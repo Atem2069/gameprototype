@@ -1,0 +1,37 @@
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Mono Rewrite.exe
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Mono Rewrite.pdb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\obj\x86\Debug\Mono Rewrite.csprojResolveAssemblyReference.cache
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\obj\x86\Debug\Mono Rewrite.exe
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\obj\x86\Debug\Mono Rewrite.pdb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\Sounds\alert.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\backgroundcityfull.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\Sounds\battle001.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\Sounds\battle003.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\Sounds\battle032.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\bullet.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\newenemy.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\rocket.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\spritefont.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Mono Rewrite.exe.config
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\GameFont.xnb
+C:\Users\Henry\OneDrive\Documents\Mono Rewrite\Mono Rewrite\bin\Windows\x86\Debug\Content\space.xnb
